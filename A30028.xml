@@ -1,0 +1,301 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jezebel withstood, and her daughter Anne Docwra, publickly reprov'd for her lies and lightness in her book, stiled, An apostate conscience, &amp;c. By Francis Bugg.</title>
+            <author>Bugg, Francis, 1640-1724?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30028</idno>
+            <idno type="STC">Wing B5372</idno>
+            <idno type="STC">ESTC R213099</idno>
+            <idno type="EEBO-CITATION">99825608</idno>
+            <idno type="PROQUEST">99825608</idno>
+            <idno type="VID">29994</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30028)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29994)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1791:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Jezebel withstood, and her daughter Anne Docwra, publickly reprov'd for her lies and lightness in her book, stiled, An apostate conscience, &amp;c. By Francis Bugg.</title>
+                  <author>Bugg, Francis, 1640-1724?</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Docwra, Anne, 1624-1710. --  Apostate conscience exposed --  Controversial literature --  Early works to 1800.</term>
+               <term>Bugg, Francis, 1640-1724? --  Early works to 1800.</term>
+               <term>Society of Friends --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:29994:1"/>
+            <pb n="1" facs="tcp:29994:1"/>
+            <head>
+               <hi>Jezebel</hi> Withſtood, And Her Daughter <hi>
+                  <hi>Anne Docwra,</hi> Publickly Reprov'd,</hi> For Her Lies and Lightneſs in Her Book, ſtiled, <hi>An Apoſtate Conſcience,</hi> &amp;c.</head>
+            <byline>By <hi>Francis Bugg.</hi>
+            </byline>
+            <opener>
+               <salute>Friendly Reader,</salute>
+            </opener>
+            <p>THE great Buſineſs which this Woman has under<g ref="char:EOLhyphen"/>taken, together with her Approvers, <hi>i. e.</hi> their Second-Day Meeting, is to render <hi>Francis Bugg</hi> a poor Indigent Perſon; one that goes about a begging, p. 4, 6. a grand <hi>Lie;</hi> and <hi>G. Whitehead</hi> a Gentleman <hi>Quaker:</hi> But the way they have jointly taken is very Wicked and Scanda<g ref="char:EOLhyphen"/>lous; to diſcover which is my preſent Task, which I ſhall do, by extracting ſome few of her manifeſt Lies and Falſ<g ref="char:EOLhyphen"/>hoods,
+<pb n="2" facs="tcp:29994:2"/>upon which their whole Structure is built, and then leave the old Woman with her Incoherent Fables; and briefly thus, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Lie</hi> I. p. 5, 27. in her Pamphlet, <hi>Francis Bugg was</hi> (ſays ſhe) <hi>but a poor Man when he came firſt among us:—He cannot prove that he had</hi> 30 l. <hi>a Year before his Father's Death.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> This is a Formidable Lie: For my Grandfather, <hi>Francis Bugg,</hi> died in <hi>Anno</hi> 1655. and gave me 30 <hi>l.</hi> a Year in good Houſe and Land in <hi>Milden-Hall,</hi> as may appear by his laſt Will and Teſtament, which was then proved in the <hi>Prerogative-Court</hi> at <hi>London;</hi> and this was above Ten Years before my Father <hi>(Robert Bugg)</hi> died.</p>
+            <p>
+               <hi>Lie</hi> II. p. 55. <hi>He</hi> (Francis Bugg) <hi>alſo gave a Bond to make his Wife a Jointure of ſome part of his Eſtate.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> This alſo is a notorious Lie: For I never gave Bond to make my Wife a Jointure, nor did her Father ever deſire it, nor in Reaſon could not, ſince he never paid me her Portion, which upon Marriage he promiſed; which was, to make her as good as any Child he had, yet I never got but 20 <hi>l.</hi> in Money, and that in 5 or 6 Years time: And I can ſtill make it appear, that his Executor, my Brother <hi>John,</hi> owes me 100 <hi>l.</hi> if he will come to ac<g ref="char:EOLhyphen"/>compt, and pay his Father's Debts: I have often com<g ref="char:EOLhyphen"/>plained of this Injuſtice done me, but could never get Remedy, yet I ſhould not have made this publick, had not this old Woman provoked me to it. His Name I ſhall forbear, yet add, that he was a noted <hi>Quaker.</hi>
+            </p>
+            <p>
+               <hi>Lie</hi> III. p. ibid. <hi>He</hi> (F. Bugg) <hi>hath ſince ſold his Eſtate to his Son, theſe things he has confeſſed to me and others.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> No Knight of the Poſt ever utter'd more manifeſt Lies: For I never ſold my Son either Houſe or Land, little or much, in all my Life; how then could I confeſs to her and others that which never was?</p>
+            <p>
+               <hi>Lie</hi> IV. p. 26. Robert Bugg, <hi>his Father, dwelt with him ſome Years after he married; he roſe from Dinner one Day, and went out, and was found drowned in Water, where he had no occaſion to go to that Place, as</hi> F. Bugg <hi>and his Wife related.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> Here is Lie upon Lie, four Story high. 1. My Fa<g ref="char:EOLhyphen"/>ther never dwelt with me a Week ſince I marry'd, much leſs <hi>ſome Years.</hi> 2. He never SO roſe from Dinner. 3. Nor was SO found drowned. 4. Nor did I or my Wife ever
+<pb n="3" facs="tcp:29994:2"/>SO relate it, nor could we, ſince it was never ſo, as by her ſuggeſted; and therefore I would have her and her Ab<g ref="char:EOLhyphen"/>betters and Approvers look into the 56 <hi>p.</hi> of her Book, where ſhe ſays the Devil is the Father of all Liars, that ſo they may ſee whoſe Children they are. She was ac<g ref="char:EOLhyphen"/>counted by them that knew her to be a Proud Haughty Woman, and a great Liar; but now <hi>Experientia Docet.</hi>
+            </p>
+            <p>
+               <hi>Lie</hi> V. p. 31. ſhe reciting that part of a Letter ſhe ſent me, wherein <hi>G. Whitehead</hi> was by the honeſt <hi>Quakers</hi> ſu<g ref="char:EOLhyphen"/>ſpected to be a Jeſuit, as cited by me in my <hi>Pilgrim's Pro<g ref="char:EOLhyphen"/>greſs,</hi> &amp;c. p. 25. ſhe deny it to be hers. Again,</p>
+            <p>
+               <hi>Lie</hi> VI. p. 35. She recites part of one of her Letters, which treat of the <hi>Quakers</hi> Common Bank or Fund, which ſhe then was as much againſt as my ſelf, as cited by me in <hi>Pil. Prog.</hi> p. 58, 59, 62. and in my Book, <hi>The Hiſtory of the Rive, Growth and Progreſs of</hi> Quakeriſm, <hi>&amp;c.</hi> p. 148, 149. Both which ſhe denies to be hers in theſe Words, p. 32. <hi>This Letter</hi> (ſays ſhe) <hi>is a meer forged thing, I never writ any ſuch Letter to him.</hi> P. 35. <hi>This Letter I have diſ<g ref="char:EOLhyphen"/>owned, with a Certificate to prove it falſe,</hi> &amp;c.</p>
+            <p>
+               <hi>Reply.</hi> I do affirm I have both the Letters ſtill by me, and that they both are of her own Writing; and this I offer to prove, or publickly burn my Book, on Condition that <hi>G. Whitehead,</hi> her late Gentleman Quaker, and ſhe will engage under their Hands to burn her Book, in caſe I do prove it, as aforeſaid. Surely <hi>Quakeriſm</hi> is come to a low Ebb, ſince they are thus forced to make Lies its Re<g ref="char:EOLhyphen"/>fuge. This puts me in mind of a Paſſage of Father <hi>Penn</hi> in one of his Books, <hi>i. e. Error is only upheld by Error.</hi>
+            </p>
+            <p>
+               <hi>Lie</hi> VII. p. 36. F. Bugg <hi>was not the Author of ſome part of his</hi> 20th <hi>Book,</hi> meaning my <hi>Pilgrim's Progreſs.</hi>
+            </p>
+            <p>
+               <hi>Lie</hi> VIII. <hi>p.</hi> ibid. <hi>He</hi> (F. Bugg) <hi>was ſeen at</hi> Oxford <hi>at the ſame time, when this Book was about Writing.</hi>
+            </p>
+            <p>
+               <hi>Lie</hi> IX. p. ibid. <hi>He was</hi> 16 <hi>Weeks from home when his Book was writing, only he came home ſome times for a Night or two.</hi>
+            </p>
+            <p>
+               <hi>Lie</hi> X. p. 37. F. Bugg <hi>ſays in his laſt Book, that</hi> Oxford <hi>exceeded</hi> Cambridge <hi>in their Bounty to him.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> 1. I wrote every Line of that Book my ſelf. 2. I never was in <hi>Oxford,</hi> during any time of the writing of it. 3. I was in <hi>London</hi> Three Months when I wrote that
+<pb n="4" facs="tcp:29994:3"/>Book, but never came home a Night all the time. 4. I never printed, That <hi>Oxford</hi> did exceed <hi>Cambridge</hi> in their Bounty, nor has ſhe ſhown in what Page it is, nor can I remember or find any ſuch Paſſage: I obſerve her ☞ Mark therein, and I gueſs at the Deſign of it, but I ſhall not gratifie her in what ſhe'd willingly have, ſince in all Reſpects ſhe is a notorious Liar, which to ſhew, is the Sub<g ref="char:EOLhyphen"/>ject of this Diſcourſe, that the World may ſee the Nature of the <hi>Quakers</hi> Repeated Anſwers, boaſted of in the <hi>Quakers Modeſt Obſervation to the Parliament,</hi> as in p. 45. herein, and alſo from thence gather the Reaſons why the <hi>Quakers</hi> at <hi>Weſt-Dereham</hi> refuſe to own their Books, and defend themſelves, notwithſtanding they firſt gave the Clergy a Challenge to bring in their Charge: And indeed this very Diſcovery of their way of writing, may be a ſufficient Refutation of their late Book, intituled, <hi>The Defence of the People call'd Quakers, being a Reply,</hi> &amp;c. Printed 1699. For as never was a People more confuted, ſo there never was any Hereſie had the Impudence to <hi>Lie, Diſſemble,</hi> and <hi>Prevaricate</hi> from their own Words, their own Writings and Pretences, and to wrong all People they controvers'd with: For Jeſuit-like they ſtick at nothing, their Second Day Meeting have a Diſpenſation ready; they have Pow<g ref="char:EOLhyphen"/>er to <hi>Bind,</hi> and to <hi>Looſe;</hi> they have Authority to <hi>Lie</hi> and <hi>Diſſemble,</hi> and all Infallibly. But to the Matter, elſe I ſhall exceed my Half Sheet, which I am willing to winde up this old Woman in.</p>
+            <p>
+               <hi>Lie</hi> XI. p. 37. <hi>There are Verſes, which</hi> E. Bugg <hi>ſays I writ of</hi> G. Fox; <hi>this is falſe.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> I do now offer to prove it true upon her: I have the Manuſcript ſtill by me, and I never added one mate<g ref="char:EOLhyphen"/>rial Word, otherwiſe than 'tis and has been uſual with Mr. <hi>Criſp,</hi> Mr. <hi>Keith,</hi> and others, who have ſometimes al<g ref="char:EOLhyphen"/>ter'd a Word, in Correcting the Preſs for me: But the Matter was nevertheleſs mine; and poſſibly to make her Verſes run ſmooth, I might, when I Printed them for her, put in a Word; but of this ſhe never ſhewed any Diſlike till now, tho' I Printed them in <hi>W. Rogers</hi>'s Book, ſtiled, <hi>A Second Scourge for</hi> G. Whitehead, <hi>&amp;c.</hi> as I remember about 12 Years, or more, ſince; and Mr. <hi>Criſp</hi> and I have <hi>Letters</hi> of hers ſtill by us, which, it may be, may fill another Half
+<pb n="5" facs="tcp:29994:3"/>Sheet, but I would not beſtow much upon this craz'd old piece, which is now creeping into the Unity of the <hi>Quakers,</hi> and no way was to be found, but to make <hi>G. Whitehead</hi> a Gentleman <hi>Quaker,</hi> and to tell a few inno<g ref="char:EOLhyphen"/>cent <hi>Lies,</hi> to uphold their tottering Cauſe.</p>
+            <p>
+               <hi>Lie</hi> XII. p. 40. Sam. Cater <hi>does affirm he never had his Timber again.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> This is a <hi>Lie</hi> in <hi>Anne</hi> or <hi>Sam.</hi> or in both: If I find it under his Hand who had it, who ſold it, and the like, then will I produce my Proof; for I love to diſcover <hi>Hypocrites</hi> and <hi>Liars.</hi>
+            </p>
+            <p>
+               <hi>Lie</hi> XIII. p. 13. Fr. Bugg <hi>Conformed to the Church of</hi> England 1684. <hi>for fear of the Statute of</hi> 20 l. <hi>a Month.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> I deny it, and charge it as a <hi>Lie:</hi> I believe I did go into a Church in 1684. as ſome Churchmen may go into a <hi>Quakers</hi> Meeting, to Try and Examine, <hi>&amp;c.</hi> but I did not go to Church, at home, in Conformity to her, until 1685. for I well remember I went to Church more than a Year at a diſtance from home, to give my ſelf Satisfaction in my Conformity to her Doctrine and Diſcipline, and in all that time I do not remember that ever the fear of 20 <hi>l.</hi> a Month came in my Thoughts; nor was there Occaſion for ſuch a fear; let her pro<g ref="char:EOLhyphen"/>duce one Inſtance of 20 <hi>l.</hi> a Month after 1685. ſuffer'd for not going to Church; ſo that her whole Story thereabouts is like the reſt of her <hi>Lies.</hi>
+            </p>
+            <p>
+               <hi>Lie</hi> XIV. p. 27. <hi>He</hi> (F. Bugg) <hi>was a Presbyterian when he came among the Quakers.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> This is another <hi>Lie:</hi> I never was a Presbyte<g ref="char:EOLhyphen"/>rian, nor ſo called, nor my Father before me: But if I had, ſo I had not turn'd Quaker, what Crime had it been?</p>
+            <p>
+               <hi>Lie</hi> XV. F. Bugg<hi>'s Grandfather was a poor Boy, bound out to the Wooll Trade by the</hi> Docwra<hi>'s.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> This is another <hi>Lie:</hi> Nor was he of my Trade originally, nor did I ever hear or underſtand that he was a poor Boy, but have often heard that his Fa<g ref="char:EOLhyphen"/>ther gave 24 <hi>l.</hi> with him to a Blue Clothier in or near <hi>Colcheſter,</hi> which was then a good Sum, as well as a good Trade, and he lived well on it: And firſt he was born Heir to 14 <hi>l.</hi> a Year; what Money he had I know
+<pb n="6" facs="tcp:29994:4"/>not: But this I'll tell this Venomous Woman, that he was a Man of as good Name, Fame and Eſtate, as any <hi>Docwra</hi> I yet ever knew. He had Four Daughters, which he gave 300 <hi>l.</hi> Portions to. He had Three Sons, to whom he gave little leſs than 400 <hi>l.</hi> a Year in Houſe and Land from firſt to laſt: And when he di<g ref="char:EOLhyphen"/>ed, he gave Additional Portions to all his Grand-Children, which were very many. I had Six Siſters; and he gave me 30 <hi>l.</hi> a Year, and each Siſter 5 or 6 <hi>l.</hi> a Year, in Houſe and Land, which was worth more than 1000 <hi>l.</hi> He gave all his Great Grand-children a Legacy; as alſo the Poor in Four Towns, and to eve<g ref="char:EOLhyphen"/>ry Servant he kept. He was a wiſe Man, and endued with a good Underſtanding in the Law; and choſen often Arbitrator between Men in difficult Caſes: And why this Venomous Woman ſhould thus detract from HIM, that was every way HER Superior, I cannot tell; only this, ſhe's overgrown with <hi>Pride,</hi> and poſ<g ref="char:EOLhyphen"/>ſeſs'd with a <hi>Lying Spirit,</hi> even the <hi>Spirit of Quakeriſm.</hi>
+            </p>
+            <p>
+               <hi>Lie</hi> XVI. p. 42. <hi>My Aunt ſaid</hi> G. Whitehead <hi>was a Gentleman born, or brought up ſo; and call'd him the Gen<g ref="char:EOLhyphen"/>tleman</hi> Quaker.</p>
+            <p>
+               <hi>Reply.</hi> This muſt needs be another <hi>Lie.</hi> 1. Do Gen<g ref="char:EOLhyphen"/>tlemen live in a poor Cottage, ſtanding on Mud Walls, not worth 50 s. as <hi>G. W.</hi> did, as I am credibly inform'd by a Perſon of Note that ſaw it. 2. Do Gentlemen's Sons walk about the Country on foot, and live upon Alms, as he did. And 3dly. A Scholar he was not, as may be ſeen by his early writing, which I have ſeen in Manuſcript; as alſo by his Book, Jacob <hi>found in the De<g ref="char:EOLhyphen"/>ſert Lands,</hi> &amp;c. I do not ſay but he might have learnt his Accidence, as many poor Boys do. But now, to merit the <hi>Quakers</hi> Favour, and to get her <hi>Lying Pamphlet</hi> licenſed, ſhe has ſtiled him the <hi>Gentleman Quaker:</hi> A ſine Jingling Name, by Yea and Nay.</p>
+            <p>
+               <hi>Lie</hi> XVII. p. 17. <hi>And now Liberty is granted, we ſtand upon equal Terms with our Oppoſers in Religious Matters.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> I deny it; and the Law tells you that this is another <hi>Lie;</hi> tho' indeed your Impudence, and known Antimagiſtratical Frinciples, leads you into ſome Pra<g ref="char:EOLhyphen"/>ctices beyond what the Eſtabliſht Church can legally
+<pb n="7" facs="tcp:29994:4"/>do: But remember you ſtand but upon your good Behaviour; do not boaſt too faſt of your Equality with the Church of <hi>England,</hi> who oppoſe your Errors.</p>
+            <p>
+               <hi>Lie</hi> XVIII. p. 40. <hi>If Friends were ſo charitable, as to ſend</hi> S. Cater 10 <hi>l. to help to pay his Debts, or to carry on his Trade, they did well in ſo doing; better than</hi> F. B. <hi>in up<g ref="char:EOLhyphen"/>braiding him.</hi>
+            </p>
+            <p>
+               <hi>Reply.</hi> I deny that the 10 <hi>l.</hi> was ſent him on that Account: No, it was ſent him as a Reward for his Pretence of ſuffering 20 <hi>l.</hi> when in Reality he ſuffer'd nothing. But ſuppoſe it was ſent him, to help to pay his Debts, as you ſay; do you therein keep to an even Balance, whilſt you condemn that in the Clergy you commend in your ſelves? And when did they or I ever account <hi>Sam.</hi> a Beggar, an Indigent Fellow, a <hi>Judas,</hi> a Man of a deſperate Fortune, <hi>&amp;c.</hi> becauſe you ſupply'd his Need, and helpt to pay his Debts? But how came you to be ſo bold, as to meddle with the Biſhops Cer<g ref="char:EOLhyphen"/>tificate? Tho' therein you did me a Kindneſs; I do not ſay on purpoſe; no, 'tis manifeſt what your Deſign therein was; but accidentally it is ſo, and quite over<g ref="char:EOLhyphen"/>throws the Drift and Deſign of your Book, ſince I hope 'tis of more Credit with all good Chriſtians, than your Falſe and Pernicious Libels: But you nibble at it like Rats, or like a little Cur that lays hold of a Bone, in which his Teeth makes no Impreſſion And now I'll leave off counting your <hi>Lies;</hi> as for your Story in <hi>p.</hi> 51. about the 15 <hi>l.</hi> Fine, and 5 <hi>l.</hi> which I receiv'd for my Charges for proſecuting three Appeals, I ſend you to my Books for an Anſwer, <hi>i. e. The Painted Harlot both Stript and Whipt,</hi> &amp;c. and <hi>Reaſon againſt Railing,</hi> &amp;c. where all your Allegations are fully anſwer'd, and the Point fully clear'd. And whereas, <hi>p.</hi> 53. ſhe ſeems to believe that I never loſt 32 <hi>l.</hi> by the <hi>Quakers,</hi> but I can tell her I have loſt by them near 300 <hi>l.</hi> but when Men pay what they can, and therein ſhew an Honeſt Moral Principle, I am not apt to upbraid them by Name in print, tho' I could not well omit <hi>Tho. Plumſtead,</hi> who run away, and paid me never a Penny; and as I was told, convey'd away too by his Brother <hi>Clement Plum<g ref="char:EOLhyphen"/>ſtead,</hi> at the Croſs Saws in the <hi>Minories,</hi> (a noted <hi>Quaker</hi>)
+<pb n="8" facs="tcp:29994:5"/>on purpoſe to wrong me and others; but if I were minded to draw a black Line over <hi>Quakeriſm</hi> on that Head, and to enlarge on other Heads, I have but juſt hinted, (and that too upon juſt Provocation) I do tell you that I could make that Diſcovery, which the Cob<g ref="char:EOLhyphen"/>ler of <hi>Glouceſter</hi> is an Aſs to; nay, and go no further neither than your Writers and Preachers, notwithſtan<g ref="char:EOLhyphen"/>ding your Pretence to a Sinleſs Perfection, and there<g ref="char:EOLhyphen"/>upon make no Confeſſion of your Sins to God; as elſe<g ref="char:EOLhyphen"/>where I have largely (yet truly) ſet forth. But to conclude.</p>
+            <p>Come on, Couſin <hi>Docwra,</hi> (for ſo I'll call you, ſince we had the Misfortune to have ſuch a Liar drop into our Family) let's reaſon a little, and I'll tell you, I was not ſo poor when I came amongſt you, as you render me; and that no Man in our Country laid himſelf more out, both as to Impriſonment, and Fines, for Meetings; nor a Man, that I know of, that entertained your Teachers more, nor at greater Expence, Cloathing ſome, and putting Money into the pockets of others: Your Brother, <hi>Giles Barnadiſton,</hi> would have ſcorned to have dipt his Pen in ſuch muddy Ink as you have done; for he and his Wife (your Siſter) have been often at my Houſe; ſometimes near a Week together; and ſometimes your Brother, <hi>Francis Waldgrave,</hi> I think, as their Serving-man; and all freely, and not grudging, as <hi>P.</hi> 34. you baſely Inſinuate, and with a bold-fac'd Lie into the Bargain, <hi>i. e. That I told you ſo.</hi> This piece of Impudence is too frequent with you, if you conſider your Age. But had you not wrote this <hi>Lying Pamphlet, G Whit<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>head,</hi> &amp;c. would never have forgiven you, for writing ſo much againſt their <hi>Bank,</hi> their publick <hi>Fund,</hi> which you call their <hi>Dagon, &amp;c.</hi> But notwithſtanding all theſe Lies, to ſerve a Turn, and to get into Favour again with <hi>G. W. &amp;c.</hi> yet I almoſt think, for the ſake of their Truth, which is ſenſibly touch'd, when the World's People get Knowledge of their Immoralities, I ſtill think that <hi>G.W. &amp;c.</hi> muſt turn this She goat out of their Heard, unleſs ſhe'll bear a Faggot, <hi>&amp;c.</hi> But let her then blame her ſelf. I muſt leave her to the Fate ſhe brought upon her ſelf, by her <hi>Lies</hi> and <hi>Lightneſs.</hi>
+            </p>
+            <pb n="9" facs="tcp:29994:5"/>
+            <p>
+               <hi>Come</hi> Geo. Whitehead, <hi>and the reſt of your Cabal,</hi> i. e. <hi>your Second Day Meeting, one branch of whoſe Buſineſs is to Approve and Licenſe your Books which you diſperſe through</hi> England <hi>and</hi> Wales, <hi>the fruit of which tends to Poyſon the Nation, and to Supplant Chriſtianity; and that with no ſmall Pains and Charge, not to your ſelves, but to your deluded Peo<g ref="char:EOLhyphen"/>ple, that ſupply your Fund. Let me ſhew you ſome of the fruits of this your Infallible Club; eſpecially ſince until you meet me as propoſed, I know not that I ſhall take any more notice of your Railing Invectives; believing, That</hi> AS <hi>God rais'd up Zealous</hi> John Wickcliff, <hi>who wrote more than Two Hundred Vo<g ref="char:EOLhyphen"/>lumes againſt</hi> Rome<hi>'s Superſtition,</hi> SO <hi>he will, in his own time, raiſe up abler Men to Compleat that Work which is begun; and what I now offer to your Conſideration, is from certain Letters, and a printed Paper of your Friend</hi> A. Docwra, <hi>which ſhe wrote to Mr.</hi> Criſp, <hi>not having my own by me in</hi> London: <hi>And,</hi>
+            </p>
+            <p>
+               <hi>Firſt, Out of a Printed Broadſide, intituled,</hi> The New Projecting Formaliſt Characterized, <hi>&amp;c.</hi> 
+               <q>
+                  <hi>I know it is common (ſays ſhe) with ſome of them, in their Books of Controverſie, to put the Names of ſuch Perſons, as they account their Vaſſals, both to Certi<g ref="char:EOLhyphen"/>ficates and Books, ſometimes without the Conſent of the Parties, whoſe Names are inſerted, and ſome<g ref="char:EOLhyphen"/>times with Conſent, thro' ſlaviſh Fear, of having their Trades obſtructed, and they ruined of their Livelihoods, or Reputations, by Publick Defama<g ref="char:EOLhyphen"/>tion — Two Years ago I ſaw a ſmall Book, in Octa<g ref="char:EOLhyphen"/>vo,</hi> i. e. The Liberty of an Apoſtate Conſcience, <hi>it was notably worded by an able Penman,</hi> [G. W.] <hi>wherein was my Name, as a Witneſs, without my Conſent, to Teſtifie more than was true, which I muſt diſown: — Yea, a bare-fac'd Lie, and an undeniable Truth; ſo cloſely interwoven together,
+<pb n="10" facs="tcp:29994:6"/>that it was not eaſily diſcovered: — Their ſeparate Men's Meetings have been the Nurſeries of Conten<g ref="char:EOLhyphen"/>tion, and I believe the chief Cauſe of this long-grin<g ref="char:EOLhyphen"/>ding Perſecution; the Magiſtrates has upbraided me as one that adhered to them, looking upon ſuch Meet<g ref="char:EOLhyphen"/>ings as more dangerous to the Peace of the Nation, than our Publick Meetings (with Doors open) where Men and Women meet altogether— Separate Meetings have ſerved to little Purpoſe, but to ſhelter great Bellies; and to obſtruct or defame Lawful Marriages, and to Ingroſs honeſt Friends Properties to themſelves.—The moſt Innocent Self-denying Peo<g ref="char:EOLhyphen"/>ple, have been the Subject of their Clamorous Tongue, when the Looſe and Vicious, the Covetous, Proud, Lying Hypocrites, have been Covered and Protected.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Again, in a Letter to</hi> Tho. Criſp, Sept. 20. 1683. <hi>ſhe thus ſaith,</hi> 
+               <q>S. Cater<hi>'s Narrative is come out in Print: I do greatly pity him; for of a certain his Weakneſs is betray'd by his falſe Friends: I found my Name in it, I ſuſpect</hi> G. Whitehead <hi>to be the Author of it;</hi> Sam. Cater <hi>is not Sophiſter great enough, to twiſt his Matter together ſo cunningly; either to make Truth go for a Lie, or a Lie go for Truth: It is part of a Letter I wrote to</hi> S. Cater, <hi>concerning my Couſin</hi> Francis Bugg, <hi>wherein they have added a few Words, that quite alters the Sence of my Letter; neither have they put in the great<g ref="char:EOLhyphen"/>eſt part of it, which would have overthrown their whole Cauſe—I have writ a Letter to my Couſin</hi> Francis Bugg, <hi>to invite him to me about this Matter.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Again, in another Letter to</hi> Tho. Criſp, Feb. 13. 1683. <q>Sam. Cater <hi>is very angry with me, becauſe I call him to an Account for bringing me in for a Wit<g ref="char:EOLhyphen"/>neſs in his Narrative, to Juſtifie him, which I cannot do; moſt of that he has written concerning me is falſe, but not all of it; he hath mixed a Lie and Truth together.</hi>
+               </q>
+            </p>
+            <pb n="11" facs="tcp:29994:6"/>
+            <p>
+               <hi>Again, in another Letter to</hi> T. Criſp, March 25. 1684. viz. <q>Sam. Cater <hi>has been lately with me, clamouring againſt</hi> F. Bugg, <hi>and</hi> J. Ainſloe, <hi>I have had a ſharp Conference with him about his Narra<g ref="char:EOLhyphen"/>tive, wherein he has uſed my Name in Print, to ju<g ref="char:EOLhyphen"/>ſtifie him in his Contentious Pamphlet with</hi> F. B. <hi>a<g ref="char:EOLhyphen"/>bout Money; he have written more than is true con<g ref="char:EOLhyphen"/>cerning me; I laid it before him ſmartly before ſeve<g ref="char:EOLhyphen"/>ral Friends; he is very bold, and the moſt confident Liar that ever I met with: I laid the Record againſt</hi> John Ainſloe <hi>before him, and his indirect Proceed<g ref="char:EOLhyphen"/>ings; alſo</hi> Geo. Whitehead<hi>'s falſe Certificate a<g ref="char:EOLhyphen"/>bout the (ſaid) Record in his</hi> Judgment Fixed, <hi>that is an abuſeful Forgery; for ſome of thoſe whoſe Names are to the Certificate, abſolutely diſowns it, and ſay, they ſet their Hands to none: It is very ſad that Men ſhould be ſo confident in their wickedneſs.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Again, in another Letter,</hi> Aug. 6. 1684. <q>Francis Bugg<hi>'s Book concerning</hi> John Ainſloe<hi>'s Marriage, is much liked of by Friends here:—And are much concerned for him, that he ſhould be ſo uſed by them that profeſs the Truth.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>I have not room for the reſt of the Letters, but theſe may ſhew the horrible Deceit, and deep Hypocriſie, that</hi> Sam. Cater, <hi>one of their noted Teachers, and the greateſt Liar that ever ſhe met with:</hi> G. White<g ref="char:EOLhyphen"/>head <hi>a wicked Forger, to ſet Mens Names to Certifi<g ref="char:EOLhyphen"/>cates without their knowledge: That their private Meetings are Nurſeries for Contention, and dangerous to the State; and of little uſe but to ſhelter great Bellies, and to Ingroſs the Property of others, thereby to be inabled to Ruin their Oppoſers, in Eſtate and Re<g ref="char:EOLhyphen"/>putation: All which I know to be true, and ſhe too; elſe why did ſhe write to me, and others, againſt theſe Works of Darkneſs.</hi>
+            </p>
+            <p>Geo. Whitehead, <hi>I cannot inlarge on her other Letters; nor is there any need, ſince theſe few are ſo
+<pb n="12" facs="tcp:29994:7"/>to the purpoſe, as well as true in fact, that all your Pretences to write from the Mouth of the Lord, and the Holy Ghoſt, and Eternal Spirit; and that your pretence,</hi> George, <hi>That a Neceſſity from God lay upon you to write your Book,</hi> Judgment Fixed; <hi>all theſe pretences are a Lie, a Cheat, and a horrible Snare, whereby you catch Thouſands of otherwiſe well-mean<g ref="char:EOLhyphen"/>ing People: And to make this more obvious, I ſhall draw ſome few Natural Inferences from your Pra<g ref="char:EOLhyphen"/>ctices, both reproved and diſcovered in the recited Printed Paper and Letters.</hi>
+            </p>
+            <p>
+               <hi>Firſt, Then is it ſo, that you put the Names of Per<g ref="char:EOLhyphen"/>ſons, which you account your Vaſſals, to Books, and Certificates, and without their Conſent too? What horrible W<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ckedneſs is this? And that which adds to the malignity of it, is, it muſt ſtill go with the ſame Title, and in the ſame Perſon's Name; witneſs</hi> Sam. Cater<hi>'s Narrative, which was as Lying a piece of Forgery as ever I knew; witneſs</hi> R. S<hi>'s</hi> Righteous Judgment, <hi>where thoſe Heatheniſh Verſes were put in by your Second Day Meeting, which</hi> R. S. <hi>never wrote, nor knew of,</hi> viz. Team, Rogers, Penny<g ref="char:EOLhyphen"/>man, Bullock, <hi>and</hi> Bugg, <hi>&amp;c. And does this Wo<g ref="char:EOLhyphen"/>man ſay, that ſuch as will not ſubmit to their Yoke, they'll endeavour to Ruin both in Name and Eſtate. How then ought this to raiſe Courage in all their Pro<g ref="char:EOLhyphen"/>ſelytes, who have but a ſpark of Zeal left, to throw off her Tyranny.</hi>
+            </p>
+            <p>
+               <hi>Secondly, But,</hi> George, <hi>your Dear Siſter,</hi> Anne Docwra, <hi>ſuſpects you to have a Chief Hand in</hi> Sam<hi>'s Narrative, and conſequently, in putting her Name to what ſhe never wrote; who have therein ſo intermixt Lies and Truth, as it is not eaſie for the Reader to diſcern ſeriouſly;</hi> George, <hi>this is wickedly done with a witneſs.</hi>
+            </p>
+            <p>
+               <hi>Thirdly, Again,</hi> George, <hi>and the reſt of your Se<g ref="char:EOLhyphen"/>cond Day Meeters, you ſee ſhe hath Charged your
+<pb n="13" facs="tcp:29994:7"/>Private Meetings, to be Nurſeries of Contention, and dangerous to the State, and have given you a good Reaſon for it; agreeing with what I have ſaid in</hi> Pilg. Prog. <hi>&amp;c.</hi> p. 65, to 105. <hi>Is it ſo,</hi> George, <hi>that theſe your Private Meetings tend to little uſe, but to ſhelter great Bellies, to defend the Vicious, Ly<g ref="char:EOLhyphen"/>ing Hypocrites amongſt you, and to ingroſs the Pro<g ref="char:EOLhyphen"/>perties of your poor deluded Followers. Oh horrible! And are the moſt Innocent Self-denying People amongſt you, the ſubject of your Teachers Clamorous Tongues? Then ſeriouſly,</hi> George, <hi>I think there are not grander Deceivers upon the whole Earth.</hi>
+            </p>
+            <p n="4">4. <hi>Is it ſo, that ſhe thus brands</hi> G. Whitehead <hi>for a Forger, for ſetting Mens Names to his Certifi<g ref="char:EOLhyphen"/>cate without their Knowledge, Privity, or Conſent? Is it poſſible, that what</hi> Sam. Cater <hi>wants of being a Sophiſter, great enough to make a Lie ſeem true, that ſincere</hi> George <hi>(which is the Token of his Writing in all his Epiſtles) ſhould have the Inſincerity to do it privately? Oh groſs Hypocriſie! And which is ſtill worſe, to take from, and add to, what</hi> A. D. <hi>wrote in a Letter privately to</hi> Sam. <hi>and to be Printed with<g ref="char:EOLhyphen"/>out her Conſent, as moved thereto by the Holy Spirit; this is ſuch a depth of Iniquity, as will hardly meet with a Parallel.</hi>
+            </p>
+            <p n="5">5. <hi>Is it ſo, that</hi> Sam. Cater <hi>is the moſt Confident Liar that ever</hi> A. D. <hi>met with? That</hi> G. W. <hi>the Gentleman</hi> Quaker, <hi>is ſuch a Forger and Grand So<g ref="char:EOLhyphen"/>phiſter, to make Certificates, and Print them in Mens Names that never knew of it? See</hi> Judgment Fixed, &amp;c. <hi>p.</hi> 361. <hi>And we have now juſt Cauſe to queſti<g ref="char:EOLhyphen"/>on that in p.</hi> 250. <hi>for he that can forge one Certificate, may forge two, and as many Hundreds, if their Con<g ref="char:EOLhyphen"/>ſciences are enough hardened: And I know of no way that</hi> G. W. <hi>hath to clear himſelf from this manifeſt Forgery, but to produce an Original Certificate before</hi> 1682. <hi>But alas, Charge them with what you will,</hi>
+               <pb n="14" facs="tcp:29994:8"/>'tis not now worth their Notice, 'tis below them to clear themſelves, ſince they have repeatedly an<g ref="char:EOLhyphen"/>ſwered all Objections: <hi>Repeatedly, do they ſay? Then 'tis by a Repetition of Lies and Forgeries; as in the Caſe in hand.</hi>
+            </p>
+            <p n="6">6. <hi>Is it ſo, that my Book,</hi> Innocency Vindicated, &amp;c. <hi>was ſo liked amongſt them, which was the fourth Book I wrote againſt</hi> Geo. Fox<hi>'s Party, even whilſt I remained a</hi> Quaker? <hi>Why then does</hi> A. D. <hi>in this late Book ſay, p.</hi> 7. That I was the Author of part of their Order for Marriage; and that <hi>J. A.</hi> told her ſo; that I was Quarrelſom, <hi>&amp;c? All this ſhe knows to be falſe: See her Letter,</hi> Aug. 6. 1684. <hi>to Mr.</hi> Criſp, <hi>as herein recited: I did indeed write the Order from</hi> Sam. Cater<hi>'s Mouth, as Clerk to the Meeting, but was not the Author of one word of it; nor was I quarrelſom; but had a Place amongſt the Moderate Sort, and they liked well what I wrote, un<g ref="char:EOLhyphen"/>til I ſaw into their Errors in Fundamentals, and then left them.</hi>
+            </p>
+            <p>
+               <hi>But,</hi> George, <hi>I have not yet done, tho' I think al<g ref="char:EOLhyphen"/>moſt; for until,</hi> George, <hi>thou doſt meet me, as pro<g ref="char:EOLhyphen"/>poſed, p.</hi> 11. <hi>in</hi> Quakeriſm Expoſed to Publick Cenſure, <hi>&amp;c. I do not know that ever I ſhall after this concern my ſelf further with you: But to the Matter.</hi>
+            </p>
+            <p>
+               <hi>One of your Papers which you gave privately away came to my Hands, and I made no ill uſe of it: But,</hi> George, <hi>whereas you therein complain of Suffering</hi> 20 l. <hi>Damage for</hi> 13 s. <hi>and the like, this,</hi> George, <hi>is your Six-Week Meetings fault, and as great a Sign of your deep-rooted Deſign againſt the Publick Mini<g ref="char:EOLhyphen"/>ſtry, as any you have yet manifeſted; who will rather ſpend Twenty or Thirty Pounds upon Lawyers, Bai<g ref="char:EOLhyphen"/>liffs, Sheriffs,</hi> &amp;c. <hi>than to pay Twenty Shillings due Debt; ſuch is your Mortal Hatred to the Clergy, and which I have ſhewed in my</hi> Pilgrim's Progreſs,
+<pb n="15" facs="tcp:29994:8"/>
+               <hi>p.</hi> 65, <hi>to</hi> 72. <hi>But ſince I came laſt to</hi> London, <hi>I have ſeen an Account taken out of a Manuſcript of</hi> W. M<hi>'s,</hi> viz. They have Condemned many <hi>Qua<g ref="char:EOLhyphen"/>kers</hi> as of Antichriſt, that do pay Tythes, as others do. <hi>Joſeph Clark,</hi> a Preacher, profeſt to me, That God moved him to refuſe to deliver the Tythe to the Prieſt; the Prieſt Sued him, he Anſwered the Prieſt by Advice of <hi>John Field,</hi> who had promiſed to Secure <hi>Joſeph</hi>'s Goods from the Prieſt, which he <hi>(J. Field)</hi> failing, <hi>Joſeph</hi> the Day before the Aſ<g ref="char:EOLhyphen"/>ſizes at <hi>Bedford,</hi> got a Perſon to Agree with the Prieſt for him, and ſince ſaid to me, He could now pay Tythes as well as other Taxes.</p>
+            <p>
+               <hi>Thus,</hi> George, <hi>do your</hi> London <hi>Six-Week Meet<g ref="char:EOLhyphen"/>ing defend your Countrey Subjects, and inable them to ſtand it out with the Prieſts, as you call them, in or<g ref="char:EOLhyphen"/>der to tire and weary them out; not mattering what you ſpend, provided you can but gain the Point,</hi> viz. <hi>the Overthrow of the Chriſtian Miniſtry, thereby ma<g ref="char:EOLhyphen"/>king way for</hi> Quakeriſm.</p>
+            <p>
+               <hi>But,</hi> George, <hi>when all this is done by your</hi> Lon<g ref="char:EOLhyphen"/>don <hi>Fund, and the Aſſiſtance of your Common Bank, for you then to ſolicite for help herein, is ſuch groſs Hypocriſie, as I want words to ſet you forth; for if ever there was a People that deſerved the Characters following, you are the very Men; your Fruits make you manifeſt; and with that I ſhall conclude this half Sheet, which (in conjunction with what I have elſewhere wrote) ſhall ſtand as a Monument of the</hi> Quakers <hi>grand Errors, and deep Hypocriſies, great Diſſimulations, and horrible Treachery, manifeſt Cowardice, dreadful Blaſphemies, ſelf-condemn'd A<g ref="char:EOLhyphen"/>poſtacy, groſs Superſtition, great Idolatry; what ſhall I ſay,</hi> George? <hi>It is plain to me, that thy ſelf, and many of your Brethren; the Teachers of your Schiſm, are proud Boaſters, fierce Deſpiſers of them that are Good, Heady, High-minded, falſe Accu<g ref="char:EOLhyphen"/>ſers,
+<pb n="16" facs="tcp:29994:9"/>Time-ſervers, Sowers of Diſcord in Families, Implacable, <g ref="char:V">Ʋ</g>nmerciful, yea, filled with Hatred, Malice, Strife, Envy, Debate, and Malignity, given to Licentious <g ref="char:V">Ʋ</g>ncleanneſs, and Epicuriſm, Inconti<g ref="char:EOLhyphen"/>nent, Impatient, who are going in the way of</hi> Cain, <hi>and running greedily after the Error of</hi> Baalim <hi>the Son of</hi> Bozer, <hi>who loved the Wages of <g ref="char:V">Ʋ</g>nrighteouſ<g ref="char:EOLhyphen"/>neſs; who mind earthly things; and whoſe End ſhall be according to your Works, except you repent and a<g ref="char:EOLhyphen"/>mend your Ways; which that you may do, is the great deſire of your very much Abuſed Friend,</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>April 11. 1699.</date>
+               </dateline>
+               <signed>Francis Bugg.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:29994:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
